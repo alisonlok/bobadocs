@@ -45,6 +45,7 @@ Navigate to this file in the repo (`docs/programming/version-control.md`) and ad
     Adam Situ,
     [David Li](discord://-/reset)
     [Joshua Seo](https://github.com/Shaguins)
+    Alison Lok
 
     
 
